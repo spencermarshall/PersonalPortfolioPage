@@ -11112,3 +11112,23 @@ header.masthead h1, header.masthead .h1 {
   background-color: #ff564f;
   border-color: #ff564f;
 }
+
+#github {
+  padding: 60px 0;
+}
+
+#github .section-heading {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+#github .section-subheading {
+  font-size: 1.25rem;
+  margin-bottom: 30px;
+  color: #d1d1d1;
+}
+
+#github .btn-social {
+  font-size: 2rem;
+  margin: 0 10px;
+}
